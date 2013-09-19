@@ -8,7 +8,7 @@ RABT es un intento por crear un album colaborativo a distancia. Sí eres un mús
 Colaborando
 -----------
 
-Forkea! De momento quiero ver si puede salir un solo track con algunos amigos. Pero sí tienes ideas para un track, quieres agregar algún instrumento, tienes un nuevo arreglo o más talento que yo. Eres bienvenido a hacer nuevas versiones de todo.
+Forkea! De momento quiero ver si puede salir un solo track con algunos amigos. Pero sí tienes ideas para un track, quieres agregar algún instrumento, tienes un nuevo arreglo o más talento que yo eres bienvenido a hacer nuevas versiones de todo.
 
 Objetivos
 ---------
