@@ -13,4 +13,5 @@ Forkea! De momento quiero ver si puede salir un solo track con algunos amigos. P
 Objetivos
 ---------
 
-Como dije de momento quiero que salga un solo track. Pero la idea de hacer un album colaborativo sin necesidad de que los músicos se junten suena interesante. En el mediano plazo me gustaría juntar unos 10 tracks. También me gusta la idea de que al ser un album en que cualquiera puede colaborar, y que es libre, nunca va a dejar de evolucionar.
+Como dije de momento quiero que salga un solo track. Pero la idea de hacer un album colaborativo sin necesidad de que los músicos se junten suena interesante. En el mediano plazo me gustaría juntar unos 10 tracks.
+También me gusta la idea de que al ser un album en que cualquiera puede colaborar, y que es libre, nunca va a dejar de evolucionar. Eso debería permitir experimentar con diversos géneros y estilos músicales.
